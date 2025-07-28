@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "input_files": [
+      {
+        "filename": "Breakfast Ideas.pdf",
+        "path": "/app/input/Breakfast Ideas.pdf",
+        "pages": 15,
+        "sections_found": 35
+      },
+      {
+        "filename": "Dinner Ideas - Mains_1.pdf",
+        "path": "/app/input/Dinner Ideas - Mains_1.pdf",
+        "pages": 14,
+        "sections_found": 20
+      },
+      {
+        "filename": "Dinner Ideas - Mains_2.pdf",
+        "path": "/app/input/Dinner Ideas - Mains_2.pdf",
+        "pages": 15,
+        "sections_found": 27
+      },
+      {
+        "filename": "Dinner Ideas - Mains_3.pdf",
+        "path": "/app/input/Dinner Ideas - Mains_3.pdf",
+        "pages": 9,
+        "sections_found": 15
+      },
+      {
+        "filename": "Dinner Ideas - Sides_1.pdf",
+        "path": "/app/input/Dinner Ideas - Sides_1.pdf",
+        "pages": 14,
+        "sections_found": 19
+      },
+      {
+        "filename": "Dinner Ideas - Sides_2.pdf",
+        "path": "/app/input/Dinner Ideas - Sides_2.pdf",
+        "pages": 15,
+        "sections_found": 19
+      },
+      {
+        "filename": "Dinner Ideas - Sides_3.pdf",
+        "path": "/app/input/Dinner Ideas - Sides_3.pdf",
+        "pages": 15,
+        "sections_found": 21
+      },
+      {
+        "filename": "Dinner Ideas - Sides_4.pdf",
+        "path": "/app/input/Dinner Ideas - Sides_4.pdf",
+        "pages": 15,
+        "sections_found": 19
+      },
+      {
+        "filename": "Learn Acrobat - Create and Convert_1.pdf",
+        "path": "/app/input/Learn Acrobat - Create and Convert_1.pdf",
+        "pages": 28,
+        "sections_found": 159
+      },
+      {
+        "filename": "Learn Acrobat - Create and Convert_2.pdf",
+        "path": "/app/input/Learn Acrobat - Create and Convert_2.pdf",
+        "pages": 18,
+        "sections_found": 111
+      }
+    ],
+    "persona": "Software Engineer working on ML projects",
+    "job_to_be_done": "Need to understand technical implementation details",
+    "timestamp": "2025-07-28T13:25:26.896262",
+    "processing_time_seconds": 21.35,
+    "total_sections_found": 445,
+    "total_documents": 10,
+    "successful_documents": 10
+  },
+  "extracted_sections": [
+    {
+      "document_name": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "2. Choose Adobe PDF from the printers menu.",
+      "importance_rank": 1,
+      "relevance_score": 0.1354
+    },
+    {
+      "document_name": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "1. Open the file in its authoring application, and choose File > Print.",
+      "importance_rank": 2,
+      "relevance_score": 0.1343
+    },
+    {
+      "document_name": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer",
+      "importance_rank": 3,
+      "relevance_score": 0.1285
+    },
+    {
+      "document_name": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 14,
+      "section_title": "choose Printing Preferences.",
+      "importance_rank": 4,
+      "relevance_score": 0.1282
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "Scrambled Eggs",
+      "importance_rank": 5,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "French Toast",
+      "importance_rank": 6,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Smoothie Bowl",
+      "importance_rank": 7,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Avocado Toast",
+      "importance_rank": 8,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Breakfast Burrito",
+      "importance_rank": 9,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "section_title": "Yogurt Parfait",
+      "importance_rank": 10,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Breakfast Sandwich",
+      "importance_rank": 11,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Chia Pudding",
+      "importance_rank": 12,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Breakfast Quesadilla",
+      "importance_rank": 13,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 6,
+      "section_title": "Banana Bread",
+      "importance_rank": 14,
+      "relevance_score": 0.0
+    },
+    {
+      "document_name": "Breakfast Ideas.pdf",
+      "page_number": 6,
+      "section_title": "Breakfast Tacos",
+      "importance_rank": 15,
+      "relevance_score": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Click the Properties (or Preferences) button to customize the Adobe PDF printer setting",
+      "page_number": 12,
+      "parent_section": "2. Choose Adobe PDF from the printers menu.",
+      "relevance_score": 0.1084
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "(In some applications, you may need to click Setup in the Print dialog box to open the list of printers, and then click Properties or Preferences",
+      "page_number": 12,
+      "parent_section": "2. Choose Adobe PDF from the printers menu.",
+      "relevance_score": 0.1084
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "In the Print dialog box, click OK",
+      "page_number": 12,
+      "parent_section": "2. Choose Adobe PDF from the printers menu.",
+      "relevance_score": 0.1084
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Choose Adobe PDF from the printers menu",
+      "page_number": 12,
+      "parent_section": "1. Open the file in its authoring application, and choose File > Print.",
+      "relevance_score": 0.1075
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Click the Properties (or Preferences) button to customize the Adobe PDF printer setting",
+      "page_number": 12,
+      "parent_section": "1. Open the file in its authoring application, and choose File > Print.",
+      "relevance_score": 0.1075
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "(In some applications, you may need to click Setup in the Print dialog box to open the list of printers, and then click Properties or Preferences",
+      "page_number": 12,
+      "parent_section": "1. Open the file in its authoring application, and choose File > Print.",
+      "relevance_score": 0.1075
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "(In some applications, you may need to click Setup in the Print dialog box to open the list of printers, and then click Properties or Preferences",
+      "page_number": 12,
+      "parent_section": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer",
+      "relevance_score": 0.1028
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "In the Print dialog box, click OK",
+      "page_number": 12,
+      "parent_section": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer",
+      "relevance_score": 0.1028
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Note: Your PDF is saved in the folder specified by the setting of the Adobe PDF Output Folder in the Preferences dialog box; the default location is My",
+      "page_number": 12,
+      "parent_section": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer",
+      "relevance_score": 0.1028
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "• In an authoring application such as Adobe InDesign, choose File > Print",
+      "page_number": 14,
+      "parent_section": "choose Printing Preferences.",
+      "relevance_score": 0.1025
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Select Adobe PDF as the printer, and click the Properties (or Preferences) button",
+      "page_number": 14,
+      "parent_section": "choose Printing Preferences.",
+      "relevance_score": 0.1025
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "(In some applications, you may need to click Setup in the Print dialog box to access the list of printers, and then click Properties or Preferences to customize the Adobe PDF settings",
+      "page_number": 14,
+      "parent_section": "choose Printing Preferences.",
+      "relevance_score": 0.1025
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 4 large eggs • 1/4 cup milk • Salt and pepper to taste • 1 tablespoon butter",
+      "page_number": 2,
+      "parent_section": "Scrambled Eggs",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 4 slices of bread • 2 large eggs • 1/2 cup milk • 1 teaspoon vanilla extract",
+      "page_number": 2,
+      "parent_section": "French Toast",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 banana • 1/2 cup frozen berries • 1/2 cup Greek yogurt • 1/4 cup milk",
+      "page_number": 3,
+      "parent_section": "Smoothie Bowl",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 2 slices of bread • 1 ripe avocado • Salt and pepper to taste • Optional toppings: cherry tomatoes, red pepper flakes, poached egg",
+      "page_number": 3,
+      "parent_section": "Avocado Toast",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 2 large eggs • 1/4 cup shredded cheese",
+      "page_number": 3,
+      "parent_section": "Breakfast Burrito",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients: • 1 cup Greek yogurt • 1/2 cup granola • 1/2 cup fresh berries • Honey for drizzling",
+      "page_number": 4,
+      "parent_section": "Yogurt Parfait",
+      "relevance_score": 0.0
+    }
+  ]
+}
